@@ -35,7 +35,7 @@ class Filters extends \CodeIgniter\Config\Filters
     public array $globals = [
         'before' => [
             'honeypot',
-            'login'
+            // 'login'
             // 'csrf',
             // 'invalidchars',
         ],

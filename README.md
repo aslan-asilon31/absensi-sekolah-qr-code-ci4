@@ -1,14 +1,9 @@
 # Aplikasi Web Sistem Absensi Sekolah Berbasis QR Code
 
-[![Continuous Integration](https://github.com/ikhsan3adi/absensi-sekolah-qr-code/actions/workflows/ci.yml/badge.svg)](https://github.com/ikhsan3adi/absensi-sekolah-qr-code/actions/workflows/ci.yml)
-![GitHub Repo stars](https://img.shields.io/github/stars/ikhsan3adi/absensi-sekolah-qr-code?style=social)
-![GitHub watchers](https://img.shields.io/github/watchers/ikhsan3adi/absensi-sekolah-qr-code?style=social)
-![GitHub forks](https://img.shields.io/github/forks/ikhsan3adi/absensi-sekolah-qr-code?style=social)
-![YouTube Video Views](https://img.shields.io/youtube/views/E1ho6wRBIUs?link=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DE1ho6wRBIUs)
-![YouTube Video Likes](https://img.shields.io/youtube/likes/E1ho6wRBIUs?link=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DE1ho6wRBIUs)
 
 
-![Preview](./screenshots/hero.png)
+![absensi-sekolah-qr-code](https://github.com/user-attachments/assets/35ebdd1a-71d4-4f65-b6e2-801db9ded3fa)
+
 
 Aplikasi Web Sistem Absensi Sekolah Berbasis QR Code adalah sebuah proyek yang bertujuan untuk mengotomatisasi proses absensi di lingkungan sekolah menggunakan teknologi QR code. Aplikasi ini dikembangkan dengan menggunakan framework CodeIgniter 4 dan didesain untuk mempermudah pengelolaan dan pencatatan kehadiran siswa dan guru.
 

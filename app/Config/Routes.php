@@ -33,7 +33,8 @@ $routes->set404Override();
 // route since we don't have to scan directories.
 
 // Scan
-$routes->get('/', 'Scan::index');
+$routes->get('/', 'Welcome::index');
+// $routes->get('/', 'Scan::index');
 
 $routes->group('scan', function (RouteCollection $routes) {
    $routes->get('', 'Scan::index');
